@@ -1,0 +1,14 @@
+{
+  "name": "lupinmoderasyon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "croxydb": "^0.0.7"
+  }
+}
